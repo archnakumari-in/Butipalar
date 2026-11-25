@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B1450"/><stop offset=".6" stop-color="#C2185B"/><stop offset="1" stop-color="#F48FB1"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F1D48A"/><stop offset="1" stop-color="#B8862B"/></linearGradient></defs>
+<rect width="480" height="600" fill="url(#h)"/>
+<circle cx="400" cy="90" r="110" fill="#fff" opacity=".07"/><circle cx="60" cy="540" r="140" fill="#fff" opacity=".07"/>
+<ellipse cx="240" cy="270" rx="130" ry="170" fill="#F9E9EF" opacity=".12"/>
+<ellipse cx="240" cy="270" rx="130" ry="170" fill="none" stroke="url(#gd)" stroke-width="6"/>
+<ellipse cx="240" cy="270" rx="116" ry="156" fill="none" stroke="url(#gd)" stroke-width="1.5" stroke-dasharray="3 7"/>
+<path d="M240 160 Q256 285 380 300 Q256 315 240 440 Q224 315 100 300 Q224 285 240 160Z" fill="#fff" opacity=".9"/>
+<path d="M368 120 Q371 150 398 153 Q371 156 368 186 Q365 156 338 153 Q365 150 368 120Z" fill="url(#gd)"/>
+<path d="M118 420 Q121 440 141 442 Q121 444 118 464 Q115 444 95 442 Q115 440 118 420Z" fill="url(#gd)"/>
+<rect x="205" y="470" width="70" height="14" rx="7" fill="url(#gd)"/><rect x="225" y="484" width="30" height="60" rx="6" fill="url(#gd)" opacity=".8"/>
+</svg>
